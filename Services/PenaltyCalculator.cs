@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramAPBD01.Services
+namespace ProgramAPBD02.Services
 {
     public interface IPenaltyCalculator
     {

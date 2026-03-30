@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramAPBD01.Exceptions
+namespace ProgramAPBD02.Exceptions
 {
     public class BusinessRuleException : Exception
     {

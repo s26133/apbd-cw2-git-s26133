@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramAPBD01.Models
+namespace ProgramAPBD02.Models
 {
     public class Rental
     {
